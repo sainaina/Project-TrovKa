@@ -9,7 +9,7 @@ export const FooterComponent = () => {
   return (
     <footer className="bg-Primary w-full">
       <div className="container mx-auto flex flex-col md:flex-row items-center md:items-start py-8 md:py-16">
-        <img src="public/image/logo/logo-footer.png" alt="Logo" className="w-40 mb-8 md:mb-0 md:ml-14 md:-translate-y-5" />
+        <img src="/image/logo/logo-footer.png" alt="Logo" className="w-40 mb-8 md:mb-0 md:ml-14 md:-translate-y-5" />
 
         <div className="text-white uppercase flex flex-col md:flex-row md:translate-y-10 text-[20px] md:justify-between md:w-full md:px-16">
           <div className="mb-8 md:mb-0 md:mr-12">

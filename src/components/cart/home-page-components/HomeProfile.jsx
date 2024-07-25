@@ -45,7 +45,7 @@ const HomeProfile = () => {
             animate="visible"
           >
             <motion.img
-              src="./public/image/image1/ProfilePic.png"
+              src="/image/image1/ProfilePic.png"
               alt="Profile"
               variants={bounce}
               initial="hidden"

@@ -6,10 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "serve": "vite preview"
   },
-
   "dependencies": {
     "@coreui/coreui": "^5.1.0",
     "@coreui/react": "^5.1.0",
@@ -73,11 +71,5 @@
   },
   "engines": {
     "node": ">=18.0.0"
-  },
-    "scripts": {
-      "dev": "vite",
-      "build": "vite build",
-      "serve": "vite preview"
-    } 
-    
+  }
 }

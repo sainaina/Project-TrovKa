@@ -45,7 +45,7 @@ export function NavbarNotLoginComponent() {
         <p className="text-center text-[15px] flex items-center justify-center space-x-2">
           <a href="#">
             <img
-              src="./public/image/image1/telegram.png"
+              src="/image/image1/telegram.png"
               className="w-[30px] h-[30px]"
               alt="Telegram"
             />

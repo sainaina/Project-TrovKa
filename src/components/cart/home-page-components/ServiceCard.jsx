@@ -21,7 +21,7 @@ function ServiceCard({ imageUrl, serviceCount }) {
         <div className="flex flex-col items-center w-40 max-w-full">
           <motion.img
             loading="lazy"
-            src={"public/image/image1/education.png"}
+            src={"/image/image1/education.png"}
             alt={`Service illustration for ${serviceCount} services`}
             className="w-full aspect-[0.98]"
             initial={{ opacity: 0, y: -100 }}
@@ -50,7 +50,7 @@ function ServiceCard({ imageUrl, serviceCount }) {
         <div className="flex flex-col items-center w-40 max-w-full">
           <motion.img
             loading="lazy"
-            src={"public/image/image1/AutoService.png"}
+            src={"/image/image1/AutoService.png"}
             alt={`Service illustration for ${serviceCount} services`}
             className="w-full aspect-[0.98]"
             initial={{ opacity: 0, y: -100 }}
@@ -79,7 +79,7 @@ function ServiceCard({ imageUrl, serviceCount }) {
         <div className="flex flex-col items-center w-40 max-w-full">
           <motion.img
             loading="lazy"
-            src={"public/image/image1/restaurant.png"}
+            src={"/image/image1/restaurant.png"}
             alt={`Service illustration for ${serviceCount} services`}
             className="w-full aspect-[0.98]"
             initial={{ opacity: 0, y: -100 }}
@@ -108,7 +108,7 @@ function ServiceCard({ imageUrl, serviceCount }) {
         <div className="flex flex-col items-center w-40 max-w-full">
           <motion.img
             loading="lazy"
-            src={"public/image/image1/home.png"}
+            src={"/image/image1/home.png"}
             alt={`Service illustration for ${serviceCount} services`}
             className="w-full aspect-[0.98]"
             initial={{ opacity: 0, y: -100 }}
@@ -137,7 +137,7 @@ function ServiceCard({ imageUrl, serviceCount }) {
         <div className="flex flex-col items-center w-40 max-w-full">
           <motion.img
             loading="lazy"
-            src={"public/image/image1/electronic.png"}
+            src={"/image/image1/electronic.png"}
             alt={`Service illustration for ${serviceCount} services`}
             className="w-full aspect-[0.98]"
             initial={{ opacity: 0, y: -100 }}

@@ -97,7 +97,7 @@ const RegisterPage = () => {
               <Form className="flex flex-col text-xl">
                 <div className="flex items-center justify-center text-2xl font-Regular text-blue-900 mb-6">
                   <img
-                    src="public/image/logo/Trovka-logo-offcial.png"
+                    src="/image/logo/Trovka-logo-offcial.png"
                     alt="Logo"
                     className="h-12 rounded-full"
                   />
@@ -276,9 +276,9 @@ const RegisterPage = () => {
         </div>
         <div className="hidden md:flex md:w-1/2 px-4">
           <img
-            src="public/image/icon/register.png"
+            src="/image/icon/register.png"
             alt="Register"
-            className="w-full h-full object-cover rounded-2xl"
+            className="w-full h-full object-contain rounded-2xl"
           />
         </div>
       </div>

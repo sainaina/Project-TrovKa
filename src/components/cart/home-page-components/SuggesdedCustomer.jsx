@@ -26,7 +26,7 @@ function SuggestedCustomer() {
               <a href="#">
                 <img
                   loading="lazy"
-                  srcSet="public/image/image1/borey.jpg"
+                  srcSet="/image/image1/borey.jpg"
                   className="shrink-0 max-w-full aspect-square w-[108px] rounded-full"
                   alt="Customer 1"
                 />
@@ -52,7 +52,7 @@ function SuggestedCustomer() {
                 <a href="#">
                   <img
                     loading="lazy"
-                    srcSet="public/image/image1/meta.jpg"
+                    srcSet="/image/image1/meta.jpg"
                     className="shrink-0 max-w-full mt-[10px] aspect-square w-[108px] max-md:mt-8 rounded-full"
                     alt="Customer 2"
                   />
@@ -81,7 +81,7 @@ function SuggestedCustomer() {
             <a href="#">
               <img
                 loading="lazy"
-                srcSet="public/image/image1/chiminh.jpg"
+                srcSet="/image/image1/chiminh.jpg"
                 className="shrink-0 max-w-full aspect-square w-[108px] rounded-full"
                 alt="Customer 3"
               />

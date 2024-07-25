@@ -60,7 +60,7 @@ export const NavbarComponent = () => {
         <div className="container mx-auto flex items-center justify-between h-[70px] p-4 md:p-0">
           <img
             className="w-40 ml-14 hover:cursor-pointer"
-            src="./public/image/logo/logo.png"
+            src="/image/logo/logo.png"
             alt="Logo"
             onClick={() => navigate("/")}
           />

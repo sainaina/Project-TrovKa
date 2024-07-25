@@ -1,5 +1,3 @@
-"use client";
-
 import { Carousel } from "flowbite-react";
 
 const SlideImageComponent = () => {
@@ -7,7 +5,7 @@ const SlideImageComponent = () => {
     <div className="my-[80px] mx-[100px] h-56 sm:h-64 xl:h-80 2xl:h-96">
       <Carousel slideInterval={3000}>
         <img
-          src="./public/image/image1/education2.jpg"
+          src="/image/image1/education2.jpg"
           alt="Slide 1"
           className="object-fit"
         />
@@ -22,12 +20,12 @@ const SlideImageComponent = () => {
           className="object-fit"
         />
         <img
-          src="./public/image/image1/education2.jpg"
+          src="/image/image1/education2.jpg"
           alt="Slide 4"
           className="object-fit"
         />
         <img
-          src="./public/image/image1/education2.jpg"
+          src="/image/image1/education2.jpg"
           alt="Slide 5"
           className="object-fit"
         />

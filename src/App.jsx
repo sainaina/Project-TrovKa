@@ -23,7 +23,7 @@ function App() {
         description="Welcome to Service-TrovKa"
         author="SainaIna"
         keywords="services, trovka, home"
-        thumbnail="https://k-quicksight.istad.co/opengraph-image.jpg?d3bb2a9115260a5a"
+        thumbnail="https://i.ibb.co/s6D2gFC/trovka-icon.png"
       />
       {!isAnimationComplete && <InitialAnimation />}
       <div className={`${isAnimationComplete ? "block" : "hidden"}`}>

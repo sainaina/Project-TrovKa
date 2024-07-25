@@ -24,7 +24,7 @@ const Line = () => {
                   y="40"
                   width="90"
                   height="90"
-                  href="public/image/image1/yellow.png"
+                  href="/image/image1/yellow.png"
                   alt="Electronic"
                 />
                 <text x="410" y="160" fill="black" className="font-bold">
@@ -35,7 +35,7 @@ const Line = () => {
                   y="200"
                   width="100"
                   height="100"
-                  href="public/image/image1/yellow.png"
+                  href="/image/image1/yellow.png"
                   alt="Electronic"
                 />
                 <text
@@ -51,7 +51,7 @@ const Line = () => {
                   y="400"
                   width="100"
                   height="100"
-                  href="public/image/image1/yellow.png"
+                  href="/image/image1/yellow.png"
                   alt="Electronic"
                 />
                 <p
@@ -67,7 +67,7 @@ const Line = () => {
                   y="370"
                   width="100"
                   height="100"
-                  href="public/image/image1/yellow.png"
+                  href="/image/image1/yellow.png"
                   alt="Electronic"
                 />
                 <text x="800" y="500" fill="black" className="font-bold">
@@ -78,7 +78,7 @@ const Line = () => {
                   y="260"
                   width="100"
                   height="100"
-                  href="public/image/image1/yellow.png"
+                  href="/image/image1/yellow.png"
                   alt="Electronic"
                 />
                 <text x="1325" y="387" fill="black" className="font-bold">

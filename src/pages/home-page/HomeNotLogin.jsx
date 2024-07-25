@@ -2,7 +2,6 @@ import React, { useEffect, useRef, useState } from "react";
 import { useTranslation } from "react-i18next";
 import Skeleton, { SkeletonTheme } from 'react-loading-skeleton';
 import 'react-loading-skeleton/dist/skeleton.css';
-
 import SlideImageComponent from "../../components/cart/home-page-components/SlideImageComponent";
 import CategoryLocation from "../../components/cart/home-page-components/CategoryLocation";
 import HeroSection from "../../components/cart/home-page-components/HeroSection";

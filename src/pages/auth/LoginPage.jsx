@@ -100,7 +100,7 @@ const LoginPage = () => {
                   <Form className="flex flex-col text-xl">
                     <div className="flex items-center justify-center mb-6">
                       <img
-                        src="public/image/logo/Trovka-logo-offcial.png"
+                        src="/image/logo/Trovka-logo-offcial.png"
                         alt="Logo"
                         className="h-12 rounded-full mb-1"
                       />
@@ -193,7 +193,7 @@ const LoginPage = () => {
           {/* Right Side */}
           <div className="hidden md:flex md:w-1/2 justify-center items-center mt-8 md:mt-0">
             <img
-              src="public/image/icon/register-icon.png"
+              src="/image/icon/register-icon.png"
               alt="Login Pic"
               className="w-96 rounded-xl"
             />
