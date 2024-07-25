@@ -1,4 +1,5 @@
 import { Avatar } from "@material-tailwind/react";
+import React from 'react';
 
 export function Mentor() {
   return (
